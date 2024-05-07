@@ -1,0 +1,69 @@
+# Why Tenten is a scam, and your data will most likely be sold
+Written by Marco Pisco <marco@marcopisco.com>
+
+Hello, blogreader. Thanks for reading this post. Hopefully, you haven't downloaded TikTok's latest trend, tenten.
+
+### What is tenten?
+Currently the top app on the Google Play Store trending (at least in Portugal), tenten is an app that turns your phone into a <b>live walkie talkie</b>, even when your phone screen is <b>off</b>, according to the app description.
+
+![Google Play Store application page, with the text live walkie talkie highlighted](https://i.imgur.com/Oe12wEB.png)
+
+<i>Google Play Store application page</i>
+
+### What's the problem?
+When downloading the app, you're forced to give out three permissions. Microphone access, camera access, and <b>contact access</b>. Yes, you've read it correctly. <b>Contact access</b>.
+
+For those who can't see the issue here, you can't use the application without granting contact access. Testing the application on a emulator forces access to contacts. If later on revoked, the app forces you give access to them again.
+
+What conclusion can we take of this? Do they keep your contacts? <b>We can assume so, since they don't actually list what they do with that information</b>.
+
+### Data Deletion
+
+In the Google Play Store Data Security page, they mention that you can delete your data.
+
+![Google Play Store Data Security page, highlighting "You can request your data deletion"](https://i.imgur.com/pJSqhLL.png)
+
+<i>Google Play Store Data Security page, highlighting "You can request your data deletion"</i>
+
+While there is a "Delete Account" option within the app, it technically is deactivation, since they mention that within 30 days you can restore your account.
+
+According to EU regulations (and their own privacy page!) there is supposed to be a process for European Union citizens to delete their data.
+
+![TenTen privacy page, talking about EU regulations](https://i.imgur.com/VjxlSba.png)
+
+<i>TenTen privacy page, talking about EU regulations</i>
+
+But instead of providing <i>(which they legally should do)</i> a proper process for not only providing a copy of what data they have, and also for requesting the deletion of said data, they instead tell you to complain to your <i>"local data protection
+supervisory authority"</i>, which isn't a thing. The page they link to do "said thing", is a page which doesn't exist within the European Union's website.
+
+![TenTen privacy page, about EU regulations complaints](https://i.imgur.com/gAt9Neg.png)
+
+<i>TenTen privacy page, about EU regulations complaints</i>
+
+![404 not found within European Union's website](https://i.imgur.com/S9BuN9p.png)
+
+<i>404 not found within European Union's website</i>
+
+### Where's the data stored?
+While I haven't been able to properly check where the app actually tries to ping to, they say the server is in the United States, but at the same time their company is located in France?
+
+![Privacy Page mentions the address to post letters to in France](https://i.imgur.com/UmoJpbz.png)
+
+<i>Privacy Page mentions the address to post letters to in France</i>
+
+![Privacy Page mentions the servers are located in the United States](https://i.imgur.com/xT2pCX2.png)
+
+<i>Privacy Page mentions the servers are located in the United States</i>
+
+### So, what happens to my data?
+Either they are actually a genuine company, and are not stealing your data, or they might sell it instead.
+
+What could get sold? Your email address, the contacts that are on your phone, the picture that you put on the app, the friends that you've actually added, etc.
+
+While the concept of an "always-on walkie talkie" is interesting, think that it could be inconvenient and someone might say something on it, which could actually inconvenience you.
+
+You should consider that with all that you've read above, the app is extremely shady, and either you shouldn't install it, or you should provably uninstall it before it collects more data on you.
+
+## Always think twice before you download and give information to random apps that are on the Internet.
+
+Questions? Feel free to email me at <marco@marcopisco.com>, and I might try to answer them properly.
