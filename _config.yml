@@ -59,7 +59,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/marpisco"
     - label: "E-mail"
-      icon: "fab fa-fw fa-envolope fa-solid"
+      icon: "fa-envolope fa-solid"
       url: "mailto:marco@marcopisco.com"
 
 footer:
