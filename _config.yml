@@ -11,7 +11,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Marco Pisco's personal website
 twitter_username: marco_pisco
 github_username: marpisco
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -49,20 +49,23 @@ plugins:
 
 author:
   name   : "Marco Pisco"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/biophoto.jpg"
   bio    : "Student and Developer. Technology enthusiast"
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-x-twitter-square"
+      icon: "fab fa-fw fa-x-twitter"
       url: "https://x.com/marco_pisco"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/marpisco"
+    - label: "E-mail"
+      icon: "fab fa-fw fa-envolope fa-solid"
+      url: "mailto:marco@marcopisco.com"
 
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-x-twitter-square"
+      icon: "fab fa-fw fa-x-twitter"
       url: "https://x.com/marco_pisco"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -87,7 +90,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
