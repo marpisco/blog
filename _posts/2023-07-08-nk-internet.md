@@ -1,6 +1,6 @@
 ---
 title: "North Korea and their internet usage"
-date: 2024-05-07
+date: 2023-05-07
 categories:
   - interesting
   - northkorea
