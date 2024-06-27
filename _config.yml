@@ -1,7 +1,8 @@
 # This is the configuration file for https://marcopisco.com/blog
 
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
 - jekyll-remote-theme
+- jekyll-include-cache
 title: marcopisco.com/blog
 description: marco pisco's personal blog
