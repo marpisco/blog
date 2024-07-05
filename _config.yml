@@ -59,7 +59,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/marpisco"
     - label: "E-mail"
-      icon: "fas fa-envolope"
+      icon: "fas fa-fw fa-envolope"
       url: "mailto:marco@marcopisco.com"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
