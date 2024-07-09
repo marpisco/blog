@@ -63,7 +63,7 @@ author:
       url: "mailto:marco@marcopisco.com"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://ciberlandia.pt/marcopisco"
+      url: "https://ciberlandia.pt/@marcopisco"
 
 footer:
   links:
@@ -75,7 +75,7 @@ footer:
       url: "https://github.com/marpisco"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://ciberlandia.pt/marcopisco"
+      url: "https://ciberlandia.pt/@marcopisco"
 
 defaults:
   # _posts
