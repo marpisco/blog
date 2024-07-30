@@ -77,6 +77,9 @@ footer:
       icon: "fab fa-fw fa-mastodon"
       url: "https://ciberlandia.pt/@marcopisco"
 
+head_scripts:
+  - https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2426129684422800
+
 defaults:
   # _posts
   - scope:
