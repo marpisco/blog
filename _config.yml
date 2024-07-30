@@ -14,6 +14,12 @@ github_username: marpisco
 minimal_mistakes_skin: dark
 search: true
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-X2D7P8JNBE"
+    anonymize_ip: false # default
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
